@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+header {
+  margin: 0.75em;
+  background-color: cornflowerblue;
+  border-radius: 8px;
+  font-size: x-large;
+}
+
+img {
+  float: right;
+  width: 250px;
+  border-radius: 8px;
+  margin: 0.75em;
+}
+
+h1 {
+  padding: 0.5em;
+  color: white;
+  align-items: center;
+  text-align: center;
+}
+
+h2 {
+  margin: 0.75em;
+  padding: 0.5em;
+  font-size: x-large;
+  border-bottom: solid;
+  width: 85%;
+}
+
+li {
+  padding: 0.2em;
+  margin-left: 4em;
+}
+
+footer {
+  background-color: cornflowerblue;
+  color: white;
+  align-items: center;
+  margin: 1em;
+  padding: 0.75em;
+  text-align: center;
+  border-radius: 8px;
+}
+
+/* Class Selectors  ***********/
+.footerStudent {
+  font-size: 90%;
+  padding: 0.5em;
+}
+
+.footerLink {
+  color: white;
+}
+
+.footerUpdate {
+  font-size: small;
+}
